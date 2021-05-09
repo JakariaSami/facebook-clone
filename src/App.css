@@ -1,0 +1,9 @@
+.app {
+  background: #f1f2f5;
+}
+.app_body {
+  display: flex;
+  padding-top: 10px;
+}
+
+
